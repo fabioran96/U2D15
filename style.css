@@ -1,0 +1,41 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h1, h2 {
+    color: #343a40;
+}
+
+#product-form {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#products-list .product-item {
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#products-list .product-item img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+#products-list .product-item h3 {
+    color: #007bff;
+}
+
+#products-list .product-item button {
+    margin-right: 10px;
+}
+
+.spinner-border {
+    width: 1.5rem;
+    height: 1.5rem;
+}
